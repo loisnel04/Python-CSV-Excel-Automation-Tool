@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/data_automation/__init__.py
+src/data_automation/cleaner.py
+src/data_automation/exporter.py
+src/data_automation/main.py
+src/data_automation/reader.py
+src/data_automation/reporter.py
+src/data_automation/validator.py
+src/python_csv_excel_automation.egg-info/PKG-INFO
+src/python_csv_excel_automation.egg-info/SOURCES.txt
+src/python_csv_excel_automation.egg-info/dependency_links.txt
+src/python_csv_excel_automation.egg-info/entry_points.txt
+src/python_csv_excel_automation.egg-info/requires.txt
+src/python_csv_excel_automation.egg-info/top_level.txt
